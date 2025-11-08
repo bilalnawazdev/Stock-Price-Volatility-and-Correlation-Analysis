@@ -15,12 +15,24 @@ How can an investor or portfolio manager quickly understand the risk and return 
  
 🔍 Key Findings & Insights 
 
-This analysis revealed several key insights about the tech sector: 
+This analysis of major technology stocks reveals several critical patterns regarding risk, return, and market interdependence. The interactive dashboard was instrumental in uncovering the following insights: 
 
-     Strong Correlation: Microsoft (MSFT) and Apple (AAPL) show the strongest positive correlation (~0.85), suggesting their prices are heavily influenced by similar market factors and sector-wide news.
-     Volatility Spikes: All analyzed stocks exhibited heightened volatility during early 2023, reflecting broader market uncertainty and interest rate fears.
-     Divergent Performance: Year-to-date analysis reveals significant differences in performance, highlighting the importance of individual stock selection even within a single sector.
-     Volume as an Indicator: Amazon (AMZN) consistently shows the highest average daily trading volume, indicating high liquidity and investor interest.
+     
+
+    High Sector-Wide Correlation Limits Diversification: The correlation heatmap shows a strong positive relationship (correlation > 0.80) between Apple (AAPL) and Microsoft (MSFT). This indicates that their stock prices tend to move in tandem, suggesting that holding both may offer limited diversification benefits within a portfolio, as they are exposed to similar market risks. 
+     
+
+    Volatility Spikes Align with Macroeconomic Events: The volatility analysis chart clearly shows that all four stocks experienced a dramatic spike in volatility during early 2020 (COVID-19 pandemic) and again throughout 2022 (inflation and interest rate hikes). This demonstrates that even the largest tech companies are not immune to broad market fear and uncertainty. 
+     
+
+    Divergent Year-to-Date Performance: While often grouped together, the YTD Return KPIs highlight that not all tech stocks are created equal. In recent periods, one stock may significantly outperform its peers (e.g., NVIDIA's surge in 2023), while others lag. This underscores the importance of individual stock analysis over blind sector investing. 
+     
+
+    Amazon Dominates in Trading Volume: The "Average Daily Volume" KPI consistently shows Amazon (AMZN) as the most heavily traded stock among the group. This high volume signifies greater liquidity, meaning shares can be bought or sold quickly without significantly impacting the stock price, a key consideration for active traders. 
+     
+
+    Moving Averages Signal Momentum: By overlaying the 50-day and 200-day moving averages, the dashboard can be used to identify key technical signals. For instance, when the 50-day MA crosses above the 200-day MA (a "Golden Cross"), it often signals the beginning of an upward price trend, which was observed for several stocks in late 2022 and early 2023. 
+     
      
 
 🎨 Interactive Dashboard 
